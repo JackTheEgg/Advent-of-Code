@@ -1,0 +1,193 @@
+rect 1x1
+rotate row 0 by 5
+rect 1x1
+rotate row 0 by 5
+rect 1x1
+rotate row 0 by 5
+rect 1x1
+rotate row 0 by 5
+rect 1x1
+rotate row 0 by 2
+rect 1x1
+rotate row 0 by 2
+rect 1x1
+rotate row 0 by 3
+rect 1x1
+rotate row 0 by 3
+rect 2x1
+rotate row 0 by 2
+rect 1x1
+rotate row 0 by 3
+rect 2x1
+rotate row 0 by 2
+rect 1x1
+rotate row 0 by 3
+rect 2x1
+rotate row 0 by 5
+rect 4x1
+rotate row 0 by 5
+rotate column 0 by 1
+rect 4x1
+rotate row 0 by 10
+rotate column 5 by 2
+rotate column 0 by 1
+rect 9x1
+rotate row 2 by 5
+rotate row 0 by 5
+rotate column 0 by 1
+rect 4x1
+rotate row 2 by 5
+rotate row 0 by 5
+rotate column 0 by 1
+rect 4x1
+rotate column 40 by 1
+rotate column 27 by 1
+rotate column 22 by 1
+rotate column 17 by 1
+rotate column 12 by 1
+rotate column 7 by 1
+rotate column 2 by 1
+rotate row 2 by 5
+rotate row 1 by 3
+rotate row 0 by 5
+rect 1x3
+rotate row 2 by 10
+rotate row 1 by 7
+rotate row 0 by 2
+rotate column 3 by 2
+rotate column 2 by 1
+rotate column 0 by 1
+rect 4x1
+rotate row 2 by 5
+rotate row 1 by 3
+rotate row 0 by 3
+rect 1x3
+rotate column 45 by 1
+rotate row 2 by 7
+rotate row 1 by 10
+rotate row 0 by 2
+rotate column 3 by 1
+rotate column 2 by 2
+rotate column 0 by 1
+rect 4x1
+rotate row 2 by 13
+rotate row 0 by 5
+rotate column 3 by 1
+rotate column 0 by 1
+rect 4x1
+rotate row 3 by 10
+rotate row 2 by 10
+rotate row 0 by 5
+rotate column 3 by 1
+rotate column 2 by 1
+rotate column 0 by 1
+rect 4x1
+rotate row 3 by 8
+rotate row 0 by 5
+rotate column 3 by 1
+rotate column 2 by 1
+rotate column 0 by 1
+rect 4x1
+rotate row 3 by 17
+rotate row 2 by 20
+rotate row 0 by 15
+rotate column 13 by 1
+rotate column 12 by 3
+rotate column 10 by 1
+rotate column 8 by 1
+rotate column 7 by 2
+rotate column 6 by 1
+rotate column 5 by 1
+rotate column 3 by 1
+rotate column 2 by 2
+rotate column 0 by 1
+rect 14x1
+rotate row 1 by 47
+rotate column 9 by 1
+rotate column 4 by 1
+rotate row 3 by 3
+rotate row 2 by 10
+rotate row 1 by 8
+rotate row 0 by 5
+rotate column 2 by 2
+rotate column 0 by 2
+rect 3x2
+rotate row 3 by 12
+rotate row 2 by 10
+rotate row 0 by 10
+rotate column 8 by 1
+rotate column 7 by 3
+rotate column 5 by 1
+rotate column 3 by 1
+rotate column 2 by 1
+rotate column 1 by 1
+rotate column 0 by 1
+rect 9x1
+rotate row 0 by 20
+rotate column 46 by 1
+rotate row 4 by 17
+rotate row 3 by 10
+rotate row 2 by 10
+rotate row 1 by 5
+rotate column 8 by 1
+rotate column 7 by 1
+rotate column 6 by 1
+rotate column 5 by 1
+rotate column 3 by 1
+rotate column 2 by 2
+rotate column 1 by 1
+rotate column 0 by 1
+rect 9x1
+rotate column 32 by 4
+rotate row 4 by 33
+rotate row 3 by 5
+rotate row 2 by 15
+rotate row 0 by 15
+rotate column 13 by 1
+rotate column 12 by 3
+rotate column 10 by 1
+rotate column 8 by 1
+rotate column 7 by 2
+rotate column 6 by 1
+rotate column 5 by 1
+rotate column 3 by 1
+rotate column 2 by 1
+rotate column 1 by 1
+rotate column 0 by 1
+rect 14x1
+rotate column 39 by 3
+rotate column 35 by 4
+rotate column 20 by 4
+rotate column 19 by 3
+rotate column 10 by 4
+rotate column 9 by 3
+rotate column 8 by 3
+rotate column 5 by 4
+rotate column 4 by 3
+rotate row 5 by 5
+rotate row 4 by 5
+rotate row 3 by 33
+rotate row 1 by 30
+rotate column 48 by 1
+rotate column 47 by 5
+rotate column 46 by 5
+rotate column 45 by 1
+rotate column 43 by 1
+rotate column 38 by 3
+rotate column 37 by 3
+rotate column 36 by 5
+rotate column 35 by 1
+rotate column 33 by 1
+rotate column 32 by 5
+rotate column 31 by 5
+rotate column 30 by 1
+rotate column 23 by 4
+rotate column 22 by 3
+rotate column 21 by 3
+rotate column 20 by 1
+rotate column 12 by 2
+rotate column 11 by 2
+rotate column 3 by 5
+rotate column 2 by 5
+rotate column 1 by 3
+rotate column 0 by 4
